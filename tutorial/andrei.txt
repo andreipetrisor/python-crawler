@@ -1,0 +1,171 @@
+1. POPULATIA REZIDENTA - POP105A - Populatia rezidenta la 1 ianuarie pe grupe de varsta si varste, sexe si medii de rezidenta, macroregiuni, regiuni de dezvoltare si judete
+1. POPULATIA REZIDENTA - POP106A - Populatia rezidenta la 1 iulie pe grupe de varsta si varste, sexe, medii de rezidenta, macroregiuni, regiuni de dezvoltare si judete
+2. POPULATIA DUPA DOMICILIU - POP107A - POPULATIA DUPA DOMICILIU la 1 ianuarie pe grupe de varsta si varste, sexe, medii de rezidenta, macroregiuni, regiuni de dezvoltare si judete
+2. POPULATIA DUPA DOMICILIU - POP107D - POPULATIA DUPA DOMICILIU la 1 ianuarie pe grupe de varsta si varste, sexe, judete si localitati
+2. POPULATIA DUPA DOMICILIU - POP108B - POPULATIA DUPA DOMICILIU la 1 iulie pe grupe de varsta si varste, sexe, medii de rezidenta, macroregiuni, regiuni de dezvoltare si judete
+2. POPULATIA DUPA DOMICILIU - POP108D - POPULATIA DUPA DOMICILIU la 1 iulie pe grupe de varsta si varste, sexe, judete si localitati
+1. NATALITATE - POP201B - Nascuti vii pe grupe de varsta ale tatalui si grupe de varsta ale mamei, macroregiuni, regiuni de dezvoltare si judete
+1. NATALITATE - POP201I - Nascuti vii cu resedinta obisnuita in Romania pe grupe de varsta ale tatalui si grupe de varsta ale mamei, macroregiuni, regiuni de dezvoltare si judete
+1. NATALITATE - POP203A - Rata de fertilitate pe medii de rezidenta, grupe de varsta ale mamei, macroregiuni, regiuni de dezvoltare si judete
+2. MORTALITATE - POP206C - Decedati pe cauze de deces, macroregiuni, regiuni de dezvoltare si judete
+2. MORTALITATE - POP206E - Decedati pe sexe, grupe de varsta, macroregiuni, regiuni de dezvoltare si judete
+2. EMIGRANTI CU SCHIMBAREA DOMICILIULUI PERMANENT (EMIGRANTI DEFINITIVI) - POP309B - Emigranti definitivi pe grupe de varsta, macroregiuni, regiuni de dezvoltare si judete de plecare
+3. IMIGRANTI CU STABILIREA DOMICILIULUI PERMANENT (IMIGRANTI DEFINITIVI) - POP310B - Imigranti definitivi pe grupe de varsta, macroregiuni, regiuni de dezvoltare si judete de sosire
+4. EMIGRANTI CU STABILIREA RESEDINTEI OBISNUITE (EMIGRANTI TEMPORARI) - POP320C - Emigranti temporar pe grupe de varsta, sexe, medii de rezidenta, macroregiuni, regiuni de dezvoltare si judete
+5. IMIGRANTI CU STABILIREA RESEDINTEI OBISNUITE (IMIGRANTI TEMPORARI) - POP321C - Imigranti temporar pe grupe de varsta, sexe, medii de rezidenta, macroregiuni, regiuni de dezvoltare si judete
+3. POPULATIA OCUPATA CIVILA - BALANTA FORTEI DE MUNCA - FOM103A - Populatia ocupata civila pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.1, sexe, macroregiuni, regiuni de dezvoltare si judete
+3. POPULATIA OCUPATA CIVILA - BALANTA FORTEI DE MUNCA - FOM103D - Populatia ocupata civila pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.2, sexe, macroregiuni, regiuni de dezvoltare si judete
+4. SOMERI INREGISTRATI - SOM101A - Someri inregistrati la sfarsitul lunii, pe categorii de someri, sexe, macroregiuni, regiuni de dezvoltare si judete
+4. SOMERI INREGISTRATI - SOM101B - Someri inregistrati pe categorii de someri, sexe, macroregiuni, regiuni de dezvoltare si judete
+4. SOMERI INREGISTRATI - SOM103B - Rata somajului inregistrat la sfarsitul lunii, pe sexe, macroregiuni, regiuni de dezvoltare si judete
+5. POPULATIA ACTIVA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG155E - AMIGO - Rata de activitate pe grupe de varsta, medii de rezidenta, macroregiuni si regiuni de dezvoltare
+5. POPULATIA ACTIVA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG155F - AMIGO - Rata de activitate pe grupe de varsta, sexe, macroregiuni si regiuni de dezvoltare
+6. POPULATIA OCUPATA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG110I - AMIGO - Populatia ocupata dupa nivel de educatie, pe grupe de varsta si sexe
+6. POPULATIA OCUPATA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG110J - AMIGO - Populatia ocupata dupa nivel de educatie, pe grupe de varsta si medii de rezidenta
+6. POPULATIA OCUPATA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG110M - AMIGO - Populatia ocupata dupa forma de proprietate a locului de munca, pe activitati si sexe
+6. POPULATIA OCUPATA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG110N - AMIGO - Populatia ocupata dupa forma de proprietate a locului de munca, pe activitati si medii de rezidenta
+6. POPULATIA OCUPATA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG110O - AMIGO - Populatia ocupata pe activitati, grupe de varsta si sexe
+6. POPULATIA OCUPATA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG110P - AMIGO - Populatia ocupata pe activitati, grupe de varsta si medii de rezidenta
+6. POPULATIA OCUPATA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG110S - AMIGO - Populatia ocupata pe activitati, dupa statutul profesional si sexe
+6. POPULATIA OCUPATA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG110T - AMIGO - Populatia ocupata pe activitati, dupa statutul profesional si medii de rezidenta
+6. POPULATIA OCUPATA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG110U - AMIGO - Populatia ocupata pe grupe de ocupatii, grupe de varsta si sexe
+6. POPULATIA OCUPATA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG110V - AMIGO - Populatia ocupata pe grupe de ocupatii, grupe de varsta si medii de rezidenta
+6. POPULATIA OCUPATA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG156E - AMIGO - Rata de ocupare pe grupe de varsta, medii de rezidenta, macroregiuni si regiuni de dezvoltare
+6. POPULATIA OCUPATA-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG156F - AMIGO - Rata de ocupare pe grupe de varsta, sexe, macroregiuni si regiuni de dezvoltare
+7. SOMERI BIM-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG157E - AMIGO - Rata somajului BIM pe grupe de varsta, medii de rezidenta, macroregiuni si regiuni de dezvoltare
+7. SOMERI BIM-ANCHETA FORTEI DE MUNCA IN GOSPODARII - AMG157F - AMIGO - Rata somajului BIM pe grupe de varsta, sexe, macroregiuni si regiuni de dezvoltare
+9. SALARIATI - FOM104A - Numarul mediu al salariatilor pe categorii de salariati, activitati ale economiei nationale la nivel de sectiune CAEN Rev.1, macroregiuni, regiuni de dezvoltare si judete
+9. SALARIATI - FOM104B - Numarul mediu al salariatilor pe categorii de salariati, forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+9. SALARIATI - FOM104F - Numarul mediu al salariatilor pe activitati ale economiei nationale (sectiuni si diviziuni) CAEN Rev.2, sexe, macroregiuni, regiuni de dezvoltare si judete
+9. SALARIATI - FOM105A - Efectivul  salariatilor la sfarsitul anului, pe categorii de salariati, forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+9. SALARIATI - FOM105B - Efectivul  salariatilor la sfarsitul anului, pe categorii de salariati, pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.1, sexe, macroregiuni, regiuni de dezvoltare si judete
+9. SALARIATI - FOM105F - Efectivul salariatilor la sfarsitul anului, pe activitati ale economiei nationale (sectiuni si diviziuni) CAEN Rev.2, sexe, macroregiuni, regiuni de dezvoltare si judete
+11. CASTIG SALARIAL - FOM106A - Castigul salarial nominal mediu net lunar pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.1, categorii de salariati, macroregiuni, regiuni de dezvoltare si judete
+11. CASTIG SALARIAL - FOM106E - Castigul salarial nominal mediu net lunar pe activitati ale economiei nationale (sectiuni si diviziuni) CAEN Rev.2, sexe, macroregiuni, regiuni de dezvoltare si judete
+11. CASTIG SALARIAL - FOM107A - Castigul salarial nominal mediu brut lunar pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.1, categorii de salariati, macroregiuni, regiuni de dezvoltare si judete
+11. CASTIG SALARIAL - FOM107E - Castigul salarial nominal mediu brut lunar pe activitati ale economiei nationale (sectiuni si diviziuni) CAEN Rev.2, sexe, macroregiuni, regiuni de dezvoltare si judete
+11. CASTIG SALARIAL - FOM121A - Numarul salariatilor cu program complet de lucru care au fost platiti intreaga luna, salariul brut de baza si venitul brut realizat in luna octombrie, pe forme de proprietate, pe activitati (sectiuni si diviziuni) ale economiei nationale CAEN Rev.2, pe grupe majore de ocupatii (ISCO-08) si pe sexe
+11. VENITURI - BUF104I - ABF Veniturile totale medii lunare pe o gospodarie , pe categorii de venituri si principalele categorii sociale, pe medii de rezidenta
+11. VENITURI - BUF104J - ABF Veniturile totale medii lunare pe o gospodarie, pe categorii de venituri si principalele categorii sociale, pe macroregiuni si regiuni de dezvoltare
+12. CHELTUIELI - BUF106J - ABF Cheltuielile totale medii lunare pe o gospodarie pe categorii de cheltuieli si principalele categorii sociale, pe macroregiuni si regiuni de dezvoltare
+12. CHELTUIELI - BUF108J - ABF Cheltuielile totale de consum medii lunare pe o gospodarie, pe categorii de cheltuieli si principalele categorii sociale, pe macroregiuni si regiuni de dezvoltare
+12. CHELTUIELI - BUF111I - ABF Cheltuielile medii lunare pe o gospodarie pentru cumpararea de marfuri nealimentare pe categorii de marfuri  si principalele categorii sociale, pe medii de rezidenta
+12. CHELTUIELI - BUF111J - ABF Cheltuielile medii lunare pe o gospodarie pentru cumpararea de marfuri nealimentare pe categorii de marfuri si principalele categorii sociale, pe macroregiuni si regiuni de dezvoltare
+12. CHELTUIELI - BUF114I - ABF Cheltuielile pentru cumpararea produselor agroalimentare pe categorii de produse si principalele categorii sociale, pe medii de rezidenta - medii lunare pe o persoana
+12. CHELTUIELI - BUF114J - ABF Cheltuielile pentru cumpararea produselor agroalimentare pe categorii de produse si principalele categorii sociale, pe macroregiuni si regiuni de dezvoltare - medii lunare pe o persoana
+12. CHELTUIELI - BUF115J - ABF Cheltuielile medii lunare pe o gospodarie pentru plata serviciilor pe principalele categorii sociale, pe macroregiuni si regiuni de dezvoltare
+13. CONSUM - BUF110I - ABF Consumul mediu lunar de produse alimentare pe o persoana, pe categorii sociale si medii de rezidenta
+13. CONSUM - BUF110J - ABF Consumul mediu lunar de produse alimentare pe o persoana, pe categorii sociale, macroregiuni si regiuni de dezvoltare
+13. CONSUM - BUF112J - ABF Consumul alimentar mediu zilnic pe o persoana, pe elemente componente ale consumului alimentar, exprimat in calorii si factori nutritivi, pe principalele categorii sociale, macroregiuni si regiuni de dezvoltare
+13. CONSUM - BUF113I - ABF Cantitatile de produse agroalimentare cumparate de o gospodarie pe categorii de produse si principalele categorii sociale, pe medii de rezidenta - medii lunare pe o persoana
+13. CONSUM - BUF113J - ABF Cantitatile de produse agroalimentare cumparate de o gospodarie pe categorii de produse si principalele categorii sociale, pe macroregiuni si regiuni de dezvoltare - medii lunare pe o persoana
+1. PROTECTIA SOCIALA A SOMERILOR - SOM102A - Cheltuieli anuale cu protectia sociala a somerilor dupa categorii de cheltuieli, macroregiuni, regiuni de dezvoltare si judete
+2. NUMARUL MEDIU AL PENSIONARILOR - PNS101B - Numarul mediu al pensionarilor de asigurari sociale de stat dupa nivelul pensiei, la sfarsitul anului
+4. ASISTENTA SOCIALA - ASS119A - Cantine  publice de ajutor social,1 ianuarie-31 decembrie pe macroregiuni, regiuni de dezvoltare si judete
+1. UNITATI SCOLARE - SCL101A - Unitatile de invatamant, pe categorii, forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+1. UNITATI SCOLARE - SCL101B - Unitatile de invatamant, pe niveluri de educatie, medii de rezidenta, macroregiuni, regiuni de dezvoltare si judete
+2. POPULATIA SCOLARA - SCL103A - Populatia scolara, pe niveluri de educatie, varste scolare si sexe
+2. POPULATIA SCOLARA - SCL103B - Copii si elevi inscrisi in invatamantul preuniversitar, pe niveluri de educatie, limbi de predare, macroregiuni, regiuni de dezvoltare si judete
+2. POPULATIA SCOLARA - SCL103E - Populatia scolara, pe niveluri de educatie, medii de rezidenta, macroregiuni, regiuni de dezvoltare si judete
+2. POPULATIA SCOLARA - SCL103F - Populatia scolara, pe niveluri de educatie, sexe, macroregiuni, regiuni de dezvoltare si judete
+2. POPULATIA SCOLARA - SCL103G - Populatia scolara, pe niveluri de educatie, forme de invatamant, macroregiuni, regiuni de dezvoltare si judete
+2. POPULATIA SCOLARA - SCL103H - Populatia scolara, pe niveluri de educatie, forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+2. POPULATIA SCOLARA - SCL103L - Studenti si cursanti inscrisi in invatamantul superior, pe grupe de specializari
+3. PERSONAL DIDACTIC - SCL104A - Personalul didactic,  pe niveluri de educatie, sexe, macroregiuni, regiuni de dezvoltare si judete
+3. PERSONAL DIDACTIC - SCL104B - Personalul didactic din invatamantul preuniversitar, pe niveluri de educatie, limbi de predare, macroregiuni, regiuni de dezvoltare si judete
+3. PERSONAL DIDACTIC - SCL104C - Personalul didactic, pe niveluri de educatie, forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+3. PERSONAL DIDACTIC - SCL104E - Personalul didactic, pe niveluri de educatie, medii de rezidenta, macroregiuni, regiuni de dezvoltare si judete
+5. ABSOLVENTI - SCL109A - Absolventi pe niveluri de educatie, sexe, macroregiuni, regiuni de dezvoltare si judete
+5. ABSOLVENTI - SCL109B - Absolventi pe niveluri de educatie, forme de invatamant, macroregiuni, regiuni de dezvoltare si judete
+5. ABSOLVENTI - SCL109H - Absolventi in invatamantul superior, pe grupe de specializari, forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+1. INFRASTRUCTURA SANITARA - SAN101A - Unitati sanitare pe categorii de unitati, forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+1. INFRASTRUCTURA SANITARA - SAN101B - Unitati sanitare pe categorii de unitati, forme de proprietate, judete si localitati
+1. INFRASTRUCTURA SANITARA - SAN102B - Paturi in unitatile sanitare pe categorii de unitati sanitare, forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+1. INFRASTRUCTURA SANITARA - SAN102C - Paturi in unitatile sanitare pe categorii de unitati sanitare, forme de proprietate, judete si localitati
+2. PERSONAL MEDICO - SANITAR - SAN104A - Personalul medico-sanitar pe categorii, forme de proprietate, sexe, macroregiuni, regiuni de dezvoltare si judete
+1. SPORT - CSP111A - Medaliile obtinute de sportivii romani la Jocurile Olimpice si Paralimpice, Campionatele Mondiale si Europene pe federatii sportive, categorii de intreceri sportive internationale si categorii de locuri obtinute
+3. TABELUL INTRARI - IESIRI - CON101Q - Tabelul intrari - iesiri, conturile de productie si de exploatare pe ramuri - utilizari pe produse si activitati ale economiei nationale, preturi curente - SEC 79
+3. TABELUL INTRARI - IESIRI - CON101U - Tabelul intrari - iesiri, contul de productie  pe ramuri - utilizari pe produse si activitati ale economiei nationale, preturi comparabile - SEC 79
+3. TABELUL INTRARI - IESIRI - CON111A - Tabelul intrari - iesiri, echilibrul resurse - utilizari pe produse, preturi curente - SEC 2010 - CAEN Rev.2
+3. TABELUL INTRARI - IESIRI - CON111D - Tabelul intrari - iesiri, conturile de productie si de exploatare pe ramuri - utilizari pe produse si activitati ale economiei nationale, preturi curente - SEC 2010 - CAEN Rev.2
+3. TABELUL INTRARI - IESIRI - CON111E - Tabelul intrari - iesiri, echilibrul resurse - utilizari pe produse, preturi comparabile - SEC 2010 - CAEN Rev.2
+3. TABELUL INTRARI - IESIRI - CON111H - Tabelul intrari - iesiri, contul de productie pe ramuri - utilizari pe produse si activitati ale economiei nationale, preturi comparabile - SEC 2010 - CAEN Rev.2
+4. TABELUL ECONOMIC DE ANSAMBLU - CON102D - Tabelul conturilor economice integrate pe categorii de resurse si utilizari, conturi si operatiuni, preturi curente - SEC 2010
+4. TABELUL ECONOMIC DE ANSAMBLU - CON112A - Conturi trimestriale ale sectoarelor institutionale - serie bruta, pe categorii de resurse, utilizari si operatiuni, preturi curente, SEC 2010 
+
+2. INDICII PRETURILOR PRODUCTIEI INDUSTRIALE - PPI1033 - Indicii preturilor productiei industriale pe total (piata interna si piata externa) pe activitati (clase) CAEN Rev.2 - evolutia lunara - 2015 = 100
+2. INDICII PRETURILOR PRODUCTIEI INDUSTRIALE - PPI1034 - Indicii preturilor productiei industriale pentru piata interna pe activitati (clase) CAEN Rev. 2 - evolutia lunara - 2015 = 100
+3. PRETURILE PRODUSELOR AGRICOLE - PPA101A - Preturile medii lunare si anuale ale produselor agricole vandute in pietele agroalimentare, pe judete si localitati
+3. PRETURILE PRODUSELOR AGRICOLE - PPA102B - Preturile medii de achizitie ale principalelor produse agricole pe total tara si pe judete, pe ani si in perioade cumulate (1.01-31.03; 1.01-30.06; 1.01-30.09; 1.01-31.12)
+3. PRETURILE PRODUSELOR AGRICOLE - PPA102C - Preturile medii de achizitie ale principalelor produse agricole, pe total tara si pe regiuni de dezvoltare, pe ani, luni si trimestre
+3. PRETURILE PRODUSELOR AGRICOLE - PPA103A - Preturile medii ale principalelor produse agricole pe total tara, pe ani, luni si trimestre
+1. FONDUL FUNCIAR - AGR101A - Suprafata fondului funciar dupa modul de folosinta, pe forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+2. BAZA TEHNICO - MATERIALA A AGRICULTURII - AGR103A - Parcul de tractoare si masini agricole principale din agricultura (la sfarsitul anului) pe forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+3. SUPRAFATA SI PRODUCTIA AGRICOLA VEGETALA - AGR108A - Suprafata cultivata cu principalele culturi, pe forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+3. SUPRAFATA SI PRODUCTIA AGRICOLA VEGETALA - AGR109A - Productia agricola vegetala la principalele culturi, pe forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+3. SUPRAFATA SI PRODUCTIA AGRICOLA VEGETALA - AGR110A - Productia medie la hectar, la principalele culturi, pe forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+3. SUPRAFATA SI PRODUCTIA AGRICOLA VEGETALA - AGR114A - Numarul pomilor fructiferi, pe forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+3. SUPRAFATA SI PRODUCTIA AGRICOLA VEGETALA - AGR115A - Productia de fructe pe specii de pomi, forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+3. SUPRAFATA SI PRODUCTIA AGRICOLA VEGETALA - AGR116A - Productia medie de fructe pe specii de pomi, forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+4. EFECTIVELE SI PRODUCTIA AGRICOLA ANIMALA - AGR201A - Efectivele de animale, pe categorii de animale, forme de proprietate, macroregiuni, regiuni de dezvoltare si judete, la sfarsitul anului
+4. EFECTIVELE SI PRODUCTIA AGRICOLA ANIMALA - AGR202A - Productia agricola animala pe forme de proprietate, macroregiuni, regiuni de dezvoltare si judete
+1. SILVICULTURA - AGR307A - Cifra de afaceri a unitatilor silvice, macroregiuni, regiuni de dezvoltare si judete
+1. INDUSTRIE - IND106A - Productia principalelor produse industriale 
+1. INDUSTRIE - IND106C - Productia principalelor produse industriale - serie PRODROM
+1. LOCUINTE - LOC104C - Locuinte terminate in cursul anului dupa numarul camerelor de locuit pe o locuinta, pe surse de finantare, macroregiuni, regiuni de dezvoltare si judete
+1. LOCUINTE - LOC108A - Autorizatii de construire eliberate pentru cladiri pe tipuri de constructii, medii de rezidenta, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT101A - Intreprinderi active, pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.1, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT101H - Unitati locale active, pe activitati ale economiei nationale la nivel de  diviziune CAEN Rev.1, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT101I - Unitati locale active, pe activitati ale economiei nationale la nivel de grupe CAEN Rev.1, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT101J - Unitati locale active, pe activitati ale economiei nationale la nivel de clase CAEN Rev.1, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT101N - Unitati locale active, pe activitati ale economiei nationale la nivel de subsectiune CAEN Rev.1, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT101O - Intreprinderi active, pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.2, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT101R - Unitati locale active, pe activitati ale economiei nationale la nivel de  sectiune CAEN Rev.2, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete
+
+1. STATISTICA INTREPRINDERILOR - INT101S - Unitati locale active, pe activitati ale economiei nationale la nivel de  diviziune CAEN Rev.2, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT101T - Unitati locale active, pe activitati ale economiei nationale la nivel de  grupe CAEN Rev.2, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete
+
+1. STATISTICA INTREPRINDERILOR - INT101U - Unitati locale active, pe activitati ale economiei nationale la nivel de clase CAEN Rev.2, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT101W - Intreprinderi active, pe activitati ale economiei nationale la nivel de clase CAEN Rev.2 si clase de marime dupa numarul de salariati
+1. STATISTICA INTREPRINDERILOR - INT102C - Personalul din unitatile locale active, pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.1, clase de marime dupa numarul de salariati si macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT102D - Personalul din unitatile locale active, pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.2, clase de marime dupa numarul de persoane ocupate, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT104C - Cifra de afaceri din unitatile locale active, pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.1, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete, preturi curente
+1. STATISTICA INTREPRINDERILOR - INT104D - Cifra de afaceri din unitatile locale active, pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.2, clase de marime dupa numarul de persoane ocupate, macroregiuni, regiuni de dezvoltare si judete, preturi curente
+1. STATISTICA INTREPRINDERILOR - INT105B - Investitii brute in bunuri corporale din unitatile locale active, pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.1, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT105C - Investitii nete din unitatile locale active, pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.1, clase de marime dupa numarul de salariati, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT105D - Investitii brute in bunuri corporale din unitatile locale active, pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.2, clase de marime dupa numarul de persoane ocupate, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT105E - Investitii nete din unitatile locale active, pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.2, clase de marime dupa numarul de persoane ocupate, macroregiuni, regiuni de dezvoltare si judete
+1. STATISTICA INTREPRINDERILOR - INT109C - Principalii indicatori economici si financiari ai intreprinderilor cu activitate principala de industrie, constructii, comert si servicii de piata CAEN Rev.2 si clase de marime
+2. DEMOGRAFIA INTREPRINDERILOR - INT112A - Intreprinderi nou create care au supravietuit, pe activitati ale economiei nationale la nivel de sectiune CAEN Rev.2 si pe clase de marime
+1. REGISTRUL STATISTIC AL INTREPRINDERILOR - RSI101A - Intreprinderi active, numarul mediu de salariati  si cifra de afaceri pe activitati ale economiei nationale la nivel de clase CAEN Rev.2 si clase de marime dupa numarul de salariati
+1. REGISTRUL STATISTIC AL INTREPRINDERILOR - RSI101C - Organizatii ale administratiei private si numarul mediu de salariati, pe activitati ale economiei nationale la nivel de clase CAEN Rev.2 si clase de marime dupa numarul de salariati
+1. INFRASTRUCTURA TRANSPORTURILOR - TRN139A - Lungimea drumurilor publice, pe categorii de drumuri, tipuri de acoperamant, macroregiuni, regiuni de dezvoltare si judete
+3. TRANSPORT RUTIER - TRN103B - Vehicule rutiere inmatriculate in circulatie la sfarsitul anului, pe categorii de vehicule, tipuri de proprietate, macroregiuni, regiuni de dezvoltare si judete
+1. POSTA SI TELECOMUNICATII - PTT104A - Volumul activitatii de telefonie, pe categorii de activitati, pe macroregiuni, regiuni de dezvoltare si judete
+1. COMERT EXTERIOR - EXP101D - Valoarea exportului (FOB) pe tari ale Uniunii Europene si sectiuni conform Nomenclatorului Combinat (NC)
+1. COMERT EXTERIOR - EXP101F - Valoarea exportului (FOB) pe grupe de marfuri din Nomenclatorul Combinat (NC)
+1. COMERT EXTERIOR - EXP101J - Exporturi (FOB) pe judete si pe sectiuni/capitole ale Nomenclatorul Combinat (NC) - date  lunare
+1. COMERT EXTERIOR - EXP102C - Valoarea importului (CIF) pe tari ale Uniunii Europene si sectiuni conform Nomenclatorului Combinat (NC)
+1. COMERT EXTERIOR - EXP102F - Valoarea importului (CIF) pe grupe de marfuri din Nomenclatorul Combinat (NC)
+1. COMERT EXTERIOR - EXP102J - Importuri (CIF) pe judete si pe sectiuni/capitole ale Nomenclatorul Combinat (NC) - date  lunare
+1. COMERT EXTERIOR - TEC101B - Intreprinderi dupa varsta si statutul grupului (dependente / independente)
+1. TURISM - TUR101B - Structuri de primire turistica cu functiuni de cazare turistica pe tipuri de structuri, categorii de confort  si destinatii turistice
+1. TURISM - TUR101D - Structuri de primire turistica cu functiuni de cazare turistica pe tipuri de structuri, pe macroregiuni, regiuni de dezvoltare si judete
+1. TURISM - TUR102B - Capacitatea de cazare turistica existenta pe tipuri de structuri de cazare turistica, categorii de confort si destinatii turistice
+1. TURISM - TUR102D - Capacitatea de cazare turistica existenta pe tipuri de structuri de primire turistica, macroregiuni, regiuni de dezvoltare si judete
+1. TURISM - TUR103B - Capacitatea de cazare turistica in functiune pe tipuri de structuri de primire turistica pe macroregiuni, regiuni de dezvoltare si judete
+1. TURISM - TUR103C - Capacitatea de cazare turistica in functiune pe tipuri de structuri de primire turistica, categorii de confort  si destinatii turistice
+1. TURISM - TUR103E - Capacitatea de cazare turistica lunara in functiune pe tipuri de structuri de primire turistica pe macroregiuni, regiuni de dezvoltare si judete
+
+1. TURISM - TUR103F - Capacitatea de cazare turistica lunara in functiune pe tipuri de structuri de primire turistica, judete si localitati
+1. TURISM - TUR104B - Sosiri ale turistilor in structuri de primire turistica cu functiuni de cazare turistica, pe tipuri de structuri, tipuri de turisti, pe macroregiuni, regiuni de dezvoltare si judete
+1. TURISM - TUR104F - Sosiri ale turistilor in structuri de primire turistica cu functiuni de cazare turistica, pe tipuri de structuri, tipuri de turisti, pe macroregiuni, regiuni de dezvoltare si judete, pe luni
+1. TURISM - TUR104G - Sosiri ale turistilor in structuri de primire turistica cu functiuni de cazare turistica, categorii de confort si tipuri de turisti, pe luni
+1. TURISM - TUR104H - Sosiri ale turistilor in structuri de primire turistica pe tipuri de structuri, pe judete si localitati, pe luni
+1. TURISM - TUR105D - Innoptari in structuri de primire turistica pe tipuri de structuri, tipuri de turisti, macroregiuni, regiuni de dezvoltare si judete
+1. TURISM - TUR105F - Innoptari in structuri de primire turistica pe tipuri de structuri, categorii de confort si tipuri de turisti, pe luni
+1. TURISM - TUR105G - Innoptari in structuri de primire turistica pe tipuri de structuri, tipuri de turisti, macroregiuni, regiuni de devoltare si judete, pe luni
+1. TURISM - TUR105H - Innoptari in structuri de primire turistica pe tipuri de structuri, judete si localitati, pe luni
+1. TURISM - TUR106D - Indicele de utilizare neta a capacitatii de cazare turistica in functiune, pe tipuri de structuri de primire turistica, macroregiuni, regiuni de devoltare si judete, pe luni
+1. MEDIUL INCONJURATOR - PMI114C - Contul emisiilor de poluanti in aer, pe activitati CAEN Rev.2
+1. MEDIUL INCONJURATOR - PMI115B - Sectorul de bunuri si servicii de mediu pe activitati CAEN Rev.2 si domenii de mediu
